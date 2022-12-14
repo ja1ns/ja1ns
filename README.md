@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ja1ns
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning Golang, typescript, nodejs
+- 👀 I’m interested in building challenging stuff, learning new things
+- 🌱 Currently learning Golang, typescript, nodejs
 - 📫 How to reach me shubham.jain@trinkerr.com
 
 <!---
